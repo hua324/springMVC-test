@@ -16,6 +16,7 @@ public class HelloController {
     public String target(){
         System.out.println("aaaaa");
         System.out.println("aaaaa");
+        System.out.println("bbbbb");
      return "target";
     }
 
