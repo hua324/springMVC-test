@@ -14,6 +14,7 @@ public class HelloController {
 
     @RequestMapping("/target")
     public String target(){
+        System.out.println("aaaaa");
      return "target";
     }
 
